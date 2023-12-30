@@ -1,0 +1,15 @@
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\bin\Debug\net5.0\DURAND Emma Marie Coding Project.exe
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\bin\Debug\net5.0\DURAND Emma Marie Coding Project.deps.json
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\bin\Debug\net5.0\DURAND Emma Marie Coding Project.runtimeconfig.json
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\bin\Debug\net5.0\DURAND Emma Marie Coding Project.runtimeconfig.dev.json
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\bin\Debug\net5.0\DURAND Emma Marie Coding Project.dll
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\bin\Debug\net5.0\ref\DURAND Emma Marie Coding Project.dll
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\bin\Debug\net5.0\DURAND Emma Marie Coding Project.pdb
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\DURAND Emma Marie Coding Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\DURAND Emma Marie Coding Project.AssemblyInfoInputs.cache
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\DURAND Emma Marie Coding Project.AssemblyInfo.cs
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\DURAND Emma Marie Coding Project.csproj.CoreCompileInputs.cache
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\DURAND Emma Marie Coding Project.dll
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\ref\DURAND Emma Marie Coding Project.dll
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\DURAND Emma Marie Coding Project.pdb
+C:\Users\Edurn\source\repos\DURAND Emma Marie Coding Project\obj\Debug\net5.0\DURAND Emma Marie Coding Project.genruntimeconfig.cache
